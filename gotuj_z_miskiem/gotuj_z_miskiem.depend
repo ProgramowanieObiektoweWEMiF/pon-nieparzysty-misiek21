@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1526835150 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\admin.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+	"admin.h"
+	"menu.h"
+
+1526834517 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\admin.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1526836265 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\menu.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1526835854 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\gosc.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+	"admin.h"
+	"gosc.h"
+	"menu.h"
+
+1526834650 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\gosc.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1526834517 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	"menu.h"
+	"admin.h"
+	"user.h"
+	"gosc.h"
+
+1526834939 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\user.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+
+1526835854 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\menu.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+	"menu.h"
+	"admin.h"
+	"user.h"
+	"gosc.h"
+
+1526835608 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\user.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+	"admin.h"
+	"user.h"
+	"menu.h"
+
