@@ -10,10 +10,10 @@ class gosc
 
 
     public:
+        string login;
         gosc();
         ~gosc();
 
-        void przegladaj_liste();
         void rejestruj();
 
 };

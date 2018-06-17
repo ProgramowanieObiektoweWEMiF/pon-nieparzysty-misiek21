@@ -16,12 +16,16 @@ gosc::~gosc()
 {
 }
 
-void gosc::przegladaj_liste()
-{
 
-}
 
 void gosc::rejestruj()
 {
+    ofstream plik2(login.c_str());
+    cout << "Podaj login: " << endl;
+    cin>>login;
+    login += ".txt";
+    plik2.open(("C:\\Users\Micha³\\Desktop\\Semestr 6\\Programowanie Obiektowe\\1\\gotuj_z_miskiem\\bin\\Debug\\users " + login + "").c_str(), ios::out); //
+    plik2<<"..."<<endl;
+    plik2.close();
 
 }

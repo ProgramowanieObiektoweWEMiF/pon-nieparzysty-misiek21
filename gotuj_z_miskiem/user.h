@@ -10,11 +10,10 @@ class user
 
 
     public:
+        string login, nazwa_pliku;
         user();
         ~user();
 
-        void przegladaj_liste();
-        void dodaj_ulub();
-        void przegladaj_ulub();
+        void podglad();
         void logowanieU();
 };

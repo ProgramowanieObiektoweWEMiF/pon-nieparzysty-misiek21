@@ -1,23 +1,27 @@
 # depslib dependency file v1.0
-1526835150 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\admin.cpp
+1528731158 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\admin.cpp
 	<iostream>
 	<stdio.h>
 	<cstdlib>
 	<fstream>
+	<conio.h>
+	<dirent.h>
 	"admin.h"
 	"menu.h"
 
-1526834517 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\admin.h
+1528731509 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\admin.h
 	<iostream>
 	<stdio.h>
 	<cstdlib>
+	<conio.h>
 
-1526836265 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\menu.h
+1528640131 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\menu.h
 	<iostream>
 	<stdio.h>
 	<cstdlib>
+	<conio.h>
 
-1526835854 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\gosc.cpp
+1528730464 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\gosc.cpp
 	<iostream>
 	<stdio.h>
 	<cstdlib>
@@ -26,41 +30,59 @@
 	"gosc.h"
 	"menu.h"
 
-1526834650 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\gosc.h
+1528670190 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\gosc.h
 	<iostream>
 	<stdio.h>
 	<cstdlib>
 
-1526834517 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\main.cpp
+1528640131 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\main.cpp
 	<iostream>
 	<stdio.h>
 	<cstdlib>
+	<conio.h>
 	"menu.h"
 	"admin.h"
 	"user.h"
 	"gosc.h"
+	"przepis.h"
 
-1526834939 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\user.h
+1528731773 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\user.h
 	<iostream>
 	<stdio.h>
 	<cstdlib>
 
-1526835854 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\menu.cpp
+1528729653 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\menu.cpp
 	<iostream>
 	<stdio.h>
 	<cstdlib>
 	<fstream>
+	<conio.h>
 	"menu.h"
 	"admin.h"
 	"user.h"
 	"gosc.h"
+	"przepis.h"
 
-1526835608 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\user.cpp
+1528731773 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\user.cpp
 	<iostream>
 	<stdio.h>
 	<cstdlib>
 	<fstream>
 	"admin.h"
 	"user.h"
+	"menu.h"
+
+1528589832 c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\przepis.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+
+1528588327 source:c:\users\micha許desktop\semestr 6\programowanie obiektowe\1\gotuj_z_miskiem\przepis.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<fstream>
+	"przepis.h"
 	"menu.h"
 
